@@ -1,0 +1,23 @@
+        *{
+ margin : 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+
+body {
+    background-color: mintcream;
+    margin: 20pt;
+}
+
+h1 {
+    font-size: 25pt;
+    padding: 10pt;
+}
+
+ol {
+    list-style: none;
+    padding: 25pt;
+    font-size: 18pt;
+    line-height: 24pt;
+}
